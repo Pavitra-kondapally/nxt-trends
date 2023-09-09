@@ -1,0 +1,31 @@
+/* Write your CSS code here */
+.home-img {
+  height: 500px;
+  width: 500px;
+}
+.home-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding: 15px;
+}
+.home-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  font-family: 'Roboto';
+}
+.home-heading {
+  color: #1e293b;
+}
+.home-description {
+  color: #475569;
+}
+.shop-now-button {
+  height: 50px;
+  width: 150px;
+  border-radius: 5px;
+  background-color: #0b69ff;
+  color: #ffffff;
+  border-style: none;
+}

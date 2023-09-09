@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.logo-img {
+  height: 50px;
+  width: 150px;
+}
+.logout-btn {
+  height: 50px;
+  width: 80px;
+  background-color: #0967d2;
+  color: #ffffff;
+  border-style: none;
+  border-radius: 5px;
+}
+.nav-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.nav-menu {
+  display: flex;
+  list-style: none;
+}
+.list-item {
+  margin: 10px;
+}
+.nav-header {
+  padding: 15px;
+}
